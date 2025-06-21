@@ -8,7 +8,7 @@ Iniciei minha graduação em Ciências da Computação neste ano, mas já me int
 
 * ✉️  Você pode entrar em contato comigo pelo e-mail [silvaneto.cc@gmail.com](mailto:silvaneto.cc@gmail.com)
 
-### Habilidades
+### Estudando
 
 
 <p align="left">
