@@ -1,14 +1,14 @@
-Olá, meu nome é Silvestre!
+Hello, my name is Silvestre!
 ==========================
 
-Graduando em Ciências da Computação
+Undergraduate in Computer Science
 -----------------------------------
 
-Iniciei minha graduação em Ciências da Computação neste ano, mas já me interesso pela área de TI desde a infância. Tenho buscado constantemente aprender mais e superar desafios, com foco no desenvolvimento contínuo e na aplicação prática dos conhecimentos adquiridos.
+I started my degree in Computer Science this year, but I have been interested in the IT field since I was a child. I have constantly sought to learn more and overcome challenges, focusing on continuous development and the practical application of the knowledge acquired.
 
-* ✉️  Você pode entrar em contato comigo pelo e-mail [silvaneto.cc@gmail.com](mailto:silvaneto.cc@gmail.com)
+* ✉️  You can contact me by email [silvaneto.cc@gmail.com](mailto:silvaneto.cc@gmail.com)
 
-### Estudando
+### Studying
 
 
 <p align="left">
